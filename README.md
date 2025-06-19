@@ -36,7 +36,7 @@ This pipeline is powered by the open-source [BirdNET Analyzer](https://github.co
 
 ## 📊 Architecture Diagram
 
-![Architecture Diagram]()  
+![Architecture Diagram](diagram.png)  
 <sub>Figure: Audio Tagging Pipeline using AWS Lambda and BirdNET</sub>
 
 ---
